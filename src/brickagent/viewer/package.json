@@ -1,0 +1,13 @@
+{
+  "name": "brickagent-viewer",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "pngjs": "7.0.0",
+    "three": "0.183.2",
+    "webgl-node": "1.5.1"
+  },
+  "engines": {
+    "node": "^22.14.0 || >=23.6.0"
+  }
+}

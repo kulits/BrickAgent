@@ -1,0 +1,2795 @@
+{
+ "colors": [
+  {
+   "code": 0,
+   "name": "Black",
+   "hex": "#1B2A34",
+   "edge": "#808080",
+   "lum": 0.0214
+  },
+  {
+   "code": 1,
+   "name": "Blue",
+   "hex": "#1E5AA8",
+   "edge": "#333333",
+   "lum": 0.1042
+  },
+  {
+   "code": 2,
+   "name": "Green",
+   "hex": "#00852B",
+   "edge": "#333333",
+   "lum": 0.1695
+  },
+  {
+   "code": 3,
+   "name": "Dark_Turquoise",
+   "hex": "#069D9F",
+   "edge": "#333333",
+   "lum": 0.2666
+  },
+  {
+   "code": 4,
+   "name": "Red",
+   "hex": "#B40000",
+   "edge": "#333333",
+   "lum": 0.097
+  },
+  {
+   "code": 5,
+   "name": "Dark_Pink",
+   "hex": "#D3359D",
+   "edge": "#333333",
+   "lum": 0.1883
+  },
+  {
+   "code": 6,
+   "name": "Brown",
+   "hex": "#543324",
+   "edge": "#1E1E1E",
+   "lum": 0.0438
+  },
+  {
+   "code": 7,
+   "name": "Light_Grey",
+   "hex": "#8A928D",
+   "edge": "#333333",
+   "lum": 0.2788
+  },
+  {
+   "code": 8,
+   "name": "Dark_Grey",
+   "hex": "#545955",
+   "edge": "#333333",
+   "lum": 0.0969
+  },
+  {
+   "code": 9,
+   "name": "Light_Blue",
+   "hex": "#97CBD9",
+   "edge": "#333333",
+   "lum": 0.543
+  },
+  {
+   "code": 10,
+   "name": "Bright_Green",
+   "hex": "#58AB41",
+   "edge": "#333333",
+   "lum": 0.3158
+  },
+  {
+   "code": 11,
+   "name": "Light_Turquoise",
+   "hex": "#00AAA4",
+   "edge": "#333333",
+   "lum": 0.3143
+  },
+  {
+   "code": 12,
+   "name": "Salmon",
+   "hex": "#F06D61",
+   "edge": "#333333",
+   "lum": 0.3033
+  },
+  {
+   "code": 13,
+   "name": "Pink",
+   "hex": "#F6A9BB",
+   "edge": "#333333",
+   "lum": 0.5156
+  },
+  {
+   "code": 14,
+   "name": "Yellow",
+   "hex": "#FAC80A",
+   "edge": "#333333",
+   "lum": 0.6165
+  },
+  {
+   "code": 15,
+   "name": "White",
+   "hex": "#F4F4F4",
+   "edge": "#333333",
+   "lum": 0.9047
+  },
+  {
+   "code": 16,
+   "name": "Main_Colour",
+   "hex": "#FFFF80",
+   "edge": "#333333",
+   "lum": 0.9434
+  },
+  {
+   "code": 17,
+   "name": "Light_Green",
+   "hex": "#ADD9A8",
+   "edge": "#333333",
+   "lum": 0.6134
+  },
+  {
+   "code": 18,
+   "name": "Light_Yellow",
+   "hex": "#FFD67F",
+   "edge": "#333333",
+   "lum": 0.7089
+  },
+  {
+   "code": 19,
+   "name": "Tan",
+   "hex": "#D7BA8C",
+   "edge": "#333333",
+   "lum": 0.5146
+  },
+  {
+   "code": 20,
+   "name": "Light_Violet",
+   "hex": "#AFBED6",
+   "edge": "#333333",
+   "lum": 0.508
+  },
+  {
+   "code": 21,
+   "name": "Glow_In_Dark_Opaque",
+   "hex": "#E0FFB0",
+   "edge": "#B8FF4D",
+   "alpha": 245,
+   "luminance": 15,
+   "lum": 0.905
+  },
+  {
+   "code": 22,
+   "name": "Purple",
+   "hex": "#671F81",
+   "edge": "#333333",
+   "lum": 0.0545
+  },
+  {
+   "code": 23,
+   "name": "Dark_Blue_Violet",
+   "hex": "#0E3E9A",
+   "edge": "#333333",
+   "lum": 0.0587
+  },
+  {
+   "code": 24,
+   "name": "Edge_Colour",
+   "hex": "#7F7F7F",
+   "edge": "#333333",
+   "lum": 0.2122
+  },
+  {
+   "code": 25,
+   "name": "Orange",
+   "hex": "#D67923",
+   "edge": "#333333",
+   "lum": 0.2809
+  },
+  {
+   "code": 26,
+   "name": "Magenta",
+   "hex": "#901F76",
+   "edge": "#333333",
+   "lum": 0.0822
+  },
+  {
+   "code": 27,
+   "name": "Lime",
+   "hex": "#A5CA18",
+   "edge": "#333333",
+   "lum": 0.5031
+  },
+  {
+   "code": 28,
+   "name": "Dark_Tan",
+   "hex": "#897D62",
+   "edge": "#333333",
+   "lum": 0.2087
+  },
+  {
+   "code": 29,
+   "name": "Bright_Pink",
+   "hex": "#FF9ECD",
+   "edge": "#333333",
+   "lum": 0.5012
+  },
+  {
+   "code": 30,
+   "name": "Medium_Lavender",
+   "hex": "#A06EB9",
+   "edge": "#333333",
+   "lum": 0.2213
+  },
+  {
+   "code": 31,
+   "name": "Lavender",
+   "hex": "#CDA4DE",
+   "edge": "#333333",
+   "lum": 0.448
+  },
+  {
+   "code": 32,
+   "name": "Trans_Black_IR_Lens",
+   "hex": "#000000",
+   "edge": "#333333",
+   "alpha": 245,
+   "lum": 0.0
+  },
+  {
+   "code": 33,
+   "name": "Trans_Dark_Blue",
+   "hex": "#0020A0",
+   "edge": "#000B38",
+   "alpha": 128,
+   "lum": 0.0357
+  },
+  {
+   "code": 34,
+   "name": "Trans_Green",
+   "hex": "#237841",
+   "edge": "#174F2B",
+   "alpha": 128,
+   "lum": 0.1417
+  },
+  {
+   "code": 35,
+   "name": "Trans_Bright_Green",
+   "hex": "#56E646",
+   "edge": "#27AF18",
+   "alpha": 128,
+   "lum": 0.5901
+  },
+  {
+   "code": 36,
+   "name": "Trans_Red",
+   "hex": "#C91A09",
+   "edge": "#660D05",
+   "alpha": 128,
+   "lum": 0.1318
+  },
+  {
+   "code": 37,
+   "name": "Trans_Dark_Pink",
+   "hex": "#DF6695",
+   "edge": "#B9275F",
+   "alpha": 128,
+   "lum": 0.2736
+  },
+  {
+   "code": 38,
+   "name": "Trans_Neon_Orange",
+   "hex": "#FF800D",
+   "edge": "#A85100",
+   "alpha": 128,
+   "lum": 0.3673
+  },
+  {
+   "code": 39,
+   "name": "Trans_Very_Light_Blue",
+   "hex": "#C1DFF0",
+   "edge": "#6FB4DC",
+   "alpha": 128,
+   "lum": 0.704
+  },
+  {
+   "code": 40,
+   "name": "Trans_Brown",
+   "hex": "#635F52",
+   "edge": "#2A2823",
+   "alpha": 128,
+   "lum": 0.1145
+  },
+  {
+   "code": 41,
+   "name": "Trans_Medium_Blue",
+   "hex": "#559AB7",
+   "edge": "#326276",
+   "alpha": 128,
+   "lum": 0.2846
+  },
+  {
+   "code": 42,
+   "name": "Trans_Neon_Green",
+   "hex": "#C0FF00",
+   "edge": "#739900",
+   "alpha": 128,
+   "lum": 0.8273
+  },
+  {
+   "code": 43,
+   "name": "Trans_Light_Blue",
+   "hex": "#AEE9EF",
+   "edge": "#59D1DE",
+   "alpha": 128,
+   "lum": 0.7351
+  },
+  {
+   "code": 44,
+   "name": "Trans_Bright_Reddish_Lilac",
+   "hex": "#96709F",
+   "edge": "#5F4365",
+   "alpha": 128,
+   "lum": 0.2058
+  },
+  {
+   "code": 45,
+   "name": "Trans_Pink",
+   "hex": "#FC97AC",
+   "edge": "#F9345B",
+   "alpha": 128,
+   "lum": 0.4581
+  },
+  {
+   "code": 46,
+   "name": "Trans_Yellow",
+   "hex": "#F5CD2F",
+   "edge": "#B49208",
+   "alpha": 128,
+   "lum": 0.6328
+  },
+  {
+   "code": 47,
+   "name": "Trans_Clear",
+   "hex": "#FCFCFC",
+   "edge": "#C9C9C9",
+   "alpha": 128,
+   "lum": 0.9734
+  },
+  {
+   "code": 52,
+   "name": "Trans_Purple",
+   "hex": "#A5A5CB",
+   "edge": "#6464A6",
+   "alpha": 128,
+   "lum": 0.3922
+  },
+  {
+   "code": 54,
+   "name": "Trans_Neon_Yellow",
+   "hex": "#DAB000",
+   "edge": "#755E00",
+   "alpha": 128,
+   "lum": 0.4596
+  },
+  {
+   "code": 57,
+   "name": "Trans_Orange",
+   "hex": "#F08F1C",
+   "edge": "#9E5C0A",
+   "alpha": 128,
+   "lum": 0.3825
+  },
+  {
+   "code": 60,
+   "name": "Chrome_Antique_Brass",
+   "hex": "#645A4C",
+   "edge": "#665B4D",
+   "material": "chrome",
+   "lum": 0.1054
+  },
+  {
+   "code": 61,
+   "name": "Chrome_Blue",
+   "hex": "#6C96BF",
+   "edge": "#3D638A",
+   "material": "chrome",
+   "lum": 0.2876
+  },
+  {
+   "code": 62,
+   "name": "Chrome_Green",
+   "hex": "#3CB371",
+   "edge": "#226741",
+   "material": "chrome",
+   "lum": 0.3439
+  },
+  {
+   "code": 63,
+   "name": "Chrome_Pink",
+   "hex": "#AA4D8E",
+   "edge": "#632C52",
+   "material": "chrome",
+   "lum": 0.1581
+  },
+  {
+   "code": 64,
+   "name": "Chrome_Black",
+   "hex": "#1B2A34",
+   "edge": "#3D5F76",
+   "material": "chrome",
+   "lum": 0.0214
+  },
+  {
+   "code": 65,
+   "name": "Rubber_Yellow",
+   "hex": "#FAC80A",
+   "edge": "#333333",
+   "material": "rubber",
+   "lum": 0.6165
+  },
+  {
+   "code": 66,
+   "name": "Rubber_Trans_Yellow",
+   "hex": "#F5CD2F",
+   "edge": "#B49208",
+   "alpha": 128,
+   "material": "rubber",
+   "lum": 0.6328
+  },
+  {
+   "code": 67,
+   "name": "Rubber_Trans_Clear",
+   "hex": "#FCFCFC",
+   "edge": "#C9C9C9",
+   "alpha": 128,
+   "material": "rubber",
+   "lum": 0.9734
+  },
+  {
+   "code": 68,
+   "name": "Very_Light_Orange",
+   "hex": "#FDC383",
+   "edge": "#333333",
+   "lum": 0.6155
+  },
+  {
+   "code": 69,
+   "name": "Bright_Reddish_Lilac",
+   "hex": "#8A12A8",
+   "edge": "#333333",
+   "lum": 0.0866
+  },
+  {
+   "code": 70,
+   "name": "Reddish_Brown",
+   "hex": "#5F3109",
+   "edge": "#808080",
+   "lum": 0.0465
+  },
+  {
+   "code": 71,
+   "name": "Light_Bluish_Grey",
+   "hex": "#969696",
+   "edge": "#333333",
+   "lum": 0.305
+  },
+  {
+   "code": 72,
+   "name": "Dark_Bluish_Grey",
+   "hex": "#646464",
+   "edge": "#333333",
+   "lum": 0.1274
+  },
+  {
+   "code": 73,
+   "name": "Medium_Blue",
+   "hex": "#7396C8",
+   "edge": "#333333",
+   "lum": 0.2963
+  },
+  {
+   "code": 74,
+   "name": "Medium_Green",
+   "hex": "#7FC475",
+   "edge": "#333333",
+   "lum": 0.4528
+  },
+  {
+   "code": 75,
+   "name": "Speckle_Black_Copper",
+   "hex": "#000000",
+   "edge": "#AB6038",
+   "material": "material",
+   "lum": 0.0
+  },
+  {
+   "code": 76,
+   "name": "Speckle_Dark_Bluish_Grey_Silver",
+   "hex": "#635F61",
+   "edge": "#898788",
+   "material": "material",
+   "lum": 0.117
+  },
+  {
+   "code": 77,
+   "name": "Light_Pink",
+   "hex": "#FECCCF",
+   "edge": "#333333",
+   "lum": 0.6876
+  },
+  {
+   "code": 78,
+   "name": "Light_Nougat",
+   "hex": "#FFC995",
+   "edge": "#333333",
+   "lum": 0.652
+  },
+  {
+   "code": 79,
+   "name": "Milky_White",
+   "hex": "#EEEEEE",
+   "edge": "#BABABA",
+   "alpha": 240,
+   "lum": 0.855
+  },
+  {
+   "code": 80,
+   "name": "Metallic_Silver",
+   "hex": "#767676",
+   "edge": "#333333",
+   "material": "metal",
+   "lum": 0.1812
+  },
+  {
+   "code": 81,
+   "name": "Metallic_Green",
+   "hex": "#C2C06F",
+   "edge": "#333333",
+   "material": "metal",
+   "lum": 0.5032
+  },
+  {
+   "code": 82,
+   "name": "Metallic_Gold",
+   "hex": "#DBAC34",
+   "edge": "#333333",
+   "material": "metal",
+   "lum": 0.4481
+  },
+  {
+   "code": 83,
+   "name": "Pearl_Black",
+   "hex": "#0A1327",
+   "edge": "#333333",
+   "material": "pearlescent",
+   "lum": 0.0068
+  },
+  {
+   "code": 84,
+   "name": "Medium_Nougat",
+   "hex": "#AA7D55",
+   "edge": "#333333",
+   "lum": 0.2387
+  },
+  {
+   "code": 85,
+   "name": "Medium_Lilac",
+   "hex": "#441A91",
+   "edge": "#333333",
+   "lum": 0.0401
+  },
+  {
+   "code": 86,
+   "name": "Light_Brown",
+   "hex": "#7B5D41",
+   "edge": "#333333",
+   "lum": 0.1242
+  },
+  {
+   "code": 87,
+   "name": "Metallic_Dark_Grey",
+   "hex": "#3E3C39",
+   "edge": "#333333",
+   "material": "metal",
+   "lum": 0.0455
+  },
+  {
+   "code": 89,
+   "name": "Blue_Violet",
+   "hex": "#1C58A7",
+   "edge": "#333333",
+   "lum": 0.1002
+  },
+  {
+   "code": 92,
+   "name": "Nougat",
+   "hex": "#BB805A",
+   "edge": "#333333",
+   "lum": 0.2674
+  },
+  {
+   "code": 100,
+   "name": "Light_Salmon",
+   "hex": "#F9B7A5",
+   "edge": "#333333",
+   "lum": 0.5672
+  },
+  {
+   "code": 110,
+   "name": "Violet",
+   "hex": "#26469A",
+   "edge": "#333333",
+   "lum": 0.0713
+  },
+  {
+   "code": 112,
+   "name": "Medium_Violet",
+   "hex": "#4861AC",
+   "edge": "#333333",
+   "lum": 0.1291
+  },
+  {
+   "code": 114,
+   "name": "Glitter_Trans_Dark_Pink",
+   "hex": "#DF6695",
+   "edge": "#B9275F",
+   "alpha": 128,
+   "material": "material",
+   "lum": 0.2736
+  },
+  {
+   "code": 115,
+   "name": "Medium_Lime",
+   "hex": "#B7D425",
+   "edge": "#333333",
+   "lum": 0.5729
+  },
+  {
+   "code": 117,
+   "name": "Glitter_Trans_Clear",
+   "hex": "#EEEEEE",
+   "edge": "#BABABA",
+   "alpha": 128,
+   "material": "material",
+   "lum": 0.855
+  },
+  {
+   "code": 118,
+   "name": "Aqua",
+   "hex": "#9CD6CC",
+   "edge": "#333333",
+   "lum": 0.5952
+  },
+  {
+   "code": 120,
+   "name": "Light_Lime",
+   "hex": "#DEEA92",
+   "edge": "#333333",
+   "lum": 0.7645
+  },
+  {
+   "code": 121,
+   "name": "Light_Orange",
+   "hex": "#F89A39",
+   "edge": "#333333",
+   "lum": 0.4336
+  },
+  {
+   "code": 123,
+   "name": "Dark_Salmon",
+   "hex": "#EE5434",
+   "edge": "#333333",
+   "lum": 0.2477
+  },
+  {
+   "code": 125,
+   "name": "Spud_Orange",
+   "hex": "#F9A777",
+   "edge": "#333333",
+   "lum": 0.4911
+  },
+  {
+   "code": 128,
+   "name": "Dark_Nougat",
+   "hex": "#AD6140",
+   "edge": "#333333",
+   "lum": 0.178
+  },
+  {
+   "code": 129,
+   "name": "Glitter_Trans_Purple",
+   "hex": "#640061",
+   "edge": "#000000",
+   "alpha": 128,
+   "material": "material",
+   "lum": 0.0357
+  },
+  {
+   "code": 132,
+   "name": "Speckle_Black_Silver",
+   "hex": "#000000",
+   "edge": "#898788",
+   "material": "material",
+   "lum": 0.0
+  },
+  {
+   "code": 133,
+   "name": "Speckle_Black_Gold",
+   "hex": "#000000",
+   "edge": "#DBAC34",
+   "material": "material",
+   "lum": 0.0
+  },
+  {
+   "code": 134,
+   "name": "Copper",
+   "hex": "#764D3B",
+   "edge": "#333333",
+   "material": "pearlescent",
+   "lum": 0.0948
+  },
+  {
+   "code": 135,
+   "name": "Pearl_Light_Grey",
+   "hex": "#A0A0A0",
+   "edge": "#333333",
+   "material": "pearlescent",
+   "lum": 0.3515
+  },
+  {
+   "code": 137,
+   "name": "Metallic_Blue",
+   "hex": "#5B7590",
+   "edge": "#333333",
+   "material": "pearlescent",
+   "lum": 0.1696
+  },
+  {
+   "code": 142,
+   "name": "Pearl_Light_Gold",
+   "hex": "#DEAC66",
+   "edge": "#333333",
+   "material": "pearlescent",
+   "lum": 0.4599
+  },
+  {
+   "code": 147,
+   "name": "Pearl_Dark_Gold",
+   "hex": "#83724F",
+   "edge": "#333333",
+   "material": "pearlescent",
+   "lum": 0.1742
+  },
+  {
+   "code": 148,
+   "name": "Pearl_Dark_Grey",
+   "hex": "#484D48",
+   "edge": "#333333",
+   "material": "pearlescent",
+   "lum": 0.0715
+  },
+  {
+   "code": 150,
+   "name": "Pearl_Very_Light_Grey",
+   "hex": "#989B99",
+   "edge": "#333333",
+   "material": "pearlescent",
+   "lum": 0.3242
+  },
+  {
+   "code": 151,
+   "name": "Very_Light_Bluish_Grey",
+   "hex": "#C8C8C8",
+   "edge": "#333333",
+   "lum": 0.5776
+  },
+  {
+   "code": 158,
+   "name": "Trans_Neon_Red",
+   "hex": "#F18EBB",
+   "edge": "#E63384",
+   "alpha": 128,
+   "lum": 0.4163
+  },
+  {
+   "code": 176,
+   "name": "Pearl_Red",
+   "hex": "#945148",
+   "edge": "#333333",
+   "material": "pearlescent",
+   "lum": 0.1265
+  },
+  {
+   "code": 178,
+   "name": "Pearl_Yellow",
+   "hex": "#AB673A",
+   "edge": "#333333",
+   "material": "pearlescent",
+   "lum": 0.1866
+  },
+  {
+   "code": 179,
+   "name": "Pearl_Silver",
+   "hex": "#898788",
+   "edge": "#333333",
+   "material": "pearlescent",
+   "lum": 0.2442
+  },
+  {
+   "code": 180,
+   "name": "Dark_Yellow",
+   "hex": "#DD982E",
+   "edge": "#333333",
+   "lum": 0.3803
+  },
+  {
+   "code": 183,
+   "name": "Pearl_White",
+   "hex": "#F6F2DF",
+   "edge": "#333333",
+   "material": "pearlescent",
+   "lum": 0.8842
+  },
+  {
+   "code": 184,
+   "name": "Metallic_Bright_Red",
+   "hex": "#D60026",
+   "edge": "#333333",
+   "material": "pearlescent",
+   "lum": 0.1444
+  },
+  {
+   "code": 185,
+   "name": "Metallic_Bright_Blue",
+   "hex": "#0059A3",
+   "edge": "#333333",
+   "material": "pearlescent",
+   "lum": 0.0979
+  },
+  {
+   "code": 186,
+   "name": "Metallic_Dark_Green",
+   "hex": "#008E3C",
+   "edge": "#333333",
+   "material": "pearlescent",
+   "lum": 0.1967
+  },
+  {
+   "code": 187,
+   "name": "Pearl_Brown",
+   "hex": "#57392C",
+   "edge": "#333333",
+   "material": "pearlescent",
+   "lum": 0.0513
+  },
+  {
+   "code": 189,
+   "name": "Reddish_Gold",
+   "hex": "#AC8247",
+   "edge": "#333333",
+   "material": "pearlescent",
+   "lum": 0.2519
+  },
+  {
+   "code": 191,
+   "name": "Bright_Light_Orange",
+   "hex": "#FCAC00",
+   "edge": "#333333",
+   "lum": 0.502
+  },
+  {
+   "code": 200,
+   "name": "Lemon_Metallic",
+   "hex": "#708224",
+   "edge": "#333333",
+   "material": "pearlescent",
+   "lum": 0.1954
+  },
+  {
+   "code": 212,
+   "name": "Bright_Light_Blue",
+   "hex": "#9DC3F7",
+   "edge": "#333333",
+   "lum": 0.5291
+  },
+  {
+   "code": 213,
+   "name": "Medium_Blue_Violet",
+   "hex": "#476FB6",
+   "edge": "#333333",
+   "lum": 0.1609
+  },
+  {
+   "code": 216,
+   "name": "Rust",
+   "hex": "#872B17",
+   "edge": "#333333",
+   "lum": 0.0694
+  },
+  {
+   "code": 218,
+   "name": "Reddish_Lilac",
+   "hex": "#8E5597",
+   "edge": "#333333",
+   "lum": 0.1448
+  },
+  {
+   "code": 219,
+   "name": "Lilac",
+   "hex": "#564E9D",
+   "edge": "#333333",
+   "lum": 0.0986
+  },
+  {
+   "code": 220,
+   "name": "Light_Lilac",
+   "hex": "#9195CA",
+   "edge": "#333333",
+   "lum": 0.3178
+  },
+  {
+   "code": 225,
+   "name": "Warm_Yellowish_Orange",
+   "hex": "#FAA964",
+   "edge": "#333333",
+   "lum": 0.4962
+  },
+  {
+   "code": 226,
+   "name": "Bright_Light_Yellow",
+   "hex": "#FFEC6C",
+   "edge": "#333333",
+   "lum": 0.8233
+  },
+  {
+   "code": 227,
+   "name": "Trans_Bright_Light_Green",
+   "hex": "#B5D96C",
+   "edge": "#86B22E",
+   "alpha": 128,
+   "lum": 0.6053
+  },
+  {
+   "code": 231,
+   "name": "Trans_Bright_Light_Orange",
+   "hex": "#FCB76D",
+   "edge": "#FA860A",
+   "alpha": 128,
+   "lum": 0.5567
+  },
+  {
+   "code": 232,
+   "name": "Sky_Blue",
+   "hex": "#77C9D8",
+   "edge": "#333333",
+   "lum": 0.5065
+  },
+  {
+   "code": 234,
+   "name": "Trans_Fire_Yellow",
+   "hex": "#FBE890",
+   "edge": "#F7D22B",
+   "alpha": 128,
+   "lum": 0.8024
+  },
+  {
+   "code": 256,
+   "name": "Rubber_Black",
+   "hex": "#1B2A34",
+   "edge": "#808080",
+   "material": "rubber",
+   "lum": 0.0214
+  },
+  {
+   "code": 272,
+   "name": "Dark_Blue",
+   "hex": "#19325A",
+   "edge": "#333333",
+   "lum": 0.0323
+  },
+  {
+   "code": 273,
+   "name": "Rubber_Blue",
+   "hex": "#1E5AA8",
+   "edge": "#333333",
+   "material": "rubber",
+   "lum": 0.1042
+  },
+  {
+   "code": 284,
+   "name": "Trans_Reddish_Lilac",
+   "hex": "#C281A5",
+   "edge": "#944771",
+   "alpha": 128,
+   "lum": 0.2989
+  },
+  {
+   "code": 285,
+   "name": "Trans_Light_Green",
+   "hex": "#7DC291",
+   "edge": "#46955D",
+   "alpha": 128,
+   "lum": 0.4499
+  },
+  {
+   "code": 288,
+   "name": "Dark_Green",
+   "hex": "#00451A",
+   "edge": "#808080",
+   "lum": 0.0433
+  },
+  {
+   "code": 293,
+   "name": "Trans_Light_Blue_Violet",
+   "hex": "#6BABE4",
+   "edge": "#247BC6",
+   "alpha": 128,
+   "lum": 0.3785
+  },
+  {
+   "code": 294,
+   "name": "Glow_In_Dark_Trans",
+   "hex": "#BDC6AD",
+   "edge": "#8D9D72",
+   "alpha": 200,
+   "luminance": 15,
+   "lum": 0.5422
+  },
+  {
+   "code": 295,
+   "name": "Flamingo_Pink",
+   "hex": "#FF94C2",
+   "edge": "#333333",
+   "lum": 0.4633
+  },
+  {
+   "code": 296,
+   "name": "Cool_Silver",
+   "hex": "#ADADAD",
+   "edge": "#333333",
+   "material": "pearlescent",
+   "lum": 0.4179
+  },
+  {
+   "code": 297,
+   "name": "Pearl_Gold",
+   "hex": "#AA7F2E",
+   "edge": "#333333",
+   "material": "pearlescent",
+   "lum": 0.2392
+  },
+  {
+   "code": 300,
+   "name": "Metallic_Copper",
+   "hex": "#C27F53",
+   "edge": "#333333",
+   "material": "metal",
+   "lum": 0.2727
+  },
+  {
+   "code": 302,
+   "name": "Glitter_Trans_Light_Blue",
+   "hex": "#AEE9EF",
+   "edge": "#59D1DE",
+   "alpha": 128,
+   "material": "material",
+   "lum": 0.7351
+  },
+  {
+   "code": 308,
+   "name": "Dark_Brown",
+   "hex": "#352100",
+   "edge": "#808080",
+   "lum": 0.0184
+  },
+  {
+   "code": 313,
+   "name": "Maersk_Blue",
+   "hex": "#ABD9FF",
+   "edge": "#333333",
+   "lum": 0.655
+  },
+  {
+   "code": 315,
+   "name": "Flat_Silver",
+   "hex": "#8C8C8C",
+   "edge": "#333333",
+   "material": "pearlescent",
+   "lum": 0.2623
+  },
+  {
+   "code": 316,
+   "name": "Titanium_Metallic",
+   "hex": "#3E3C39",
+   "edge": "#333333",
+   "material": "pearlescent",
+   "lum": 0.0455
+  },
+  {
+   "code": 320,
+   "name": "Dark_Red",
+   "hex": "#720012",
+   "edge": "#333333",
+   "lum": 0.0362
+  },
+  {
+   "code": 321,
+   "name": "Dark_Azure",
+   "hex": "#469BC3",
+   "edge": "#333333",
+   "lum": 0.2868
+  },
+  {
+   "code": 322,
+   "name": "Medium_Azure",
+   "hex": "#68C3E2",
+   "edge": "#333333",
+   "lum": 0.4746
+  },
+  {
+   "code": 323,
+   "name": "Light_Aqua",
+   "hex": "#D3F2EA",
+   "edge": "#333333",
+   "lum": 0.8329
+  },
+  {
+   "code": 324,
+   "name": "Rubber_Red",
+   "hex": "#B40000",
+   "edge": "#333333",
+   "material": "rubber",
+   "lum": 0.097
+  },
+  {
+   "code": 326,
+   "name": "Yellowish_Green",
+   "hex": "#E2F99A",
+   "edge": "#333333",
+   "lum": 0.8625
+  },
+  {
+   "code": 329,
+   "name": "Glow_In_Dark_White",
+   "hex": "#F5F3D7",
+   "edge": "#E0DA85",
+   "alpha": 245,
+   "luminance": 15,
+   "lum": 0.8842
+  },
+  {
+   "code": 330,
+   "name": "Olive_Green",
+   "hex": "#77774E",
+   "edge": "#333333",
+   "lum": 0.1767
+  },
+  {
+   "code": 332,
+   "name": "Fluorescent_Red_Ink",
+   "hex": "#D06D4F",
+   "edge": "#333333",
+   "lum": 0.2491
+  },
+  {
+   "code": 333,
+   "name": "Fluorescent_Green_Ink",
+   "hex": "#DBEA7A",
+   "edge": "#333333",
+   "lum": 0.7531
+  },
+  {
+   "code": 334,
+   "name": "Chrome_Gold",
+   "hex": "#DFC176",
+   "edge": "#C2982E",
+   "material": "chrome",
+   "lum": 0.5514
+  },
+  {
+   "code": 335,
+   "name": "Sand_Red",
+   "hex": "#88605E",
+   "edge": "#333333",
+   "lum": 0.1441
+  },
+  {
+   "code": 339,
+   "name": "Glitter_Trans_Neon_Green",
+   "hex": "#C0FF00",
+   "edge": "#739900",
+   "alpha": 128,
+   "material": "material",
+   "lum": 0.8273
+  },
+  {
+   "code": 341,
+   "name": "Glitter_Trans_Orange",
+   "hex": "#F08F1C",
+   "edge": "#9E5C0A",
+   "alpha": 128,
+   "material": "material",
+   "lum": 0.3825
+  },
+  {
+   "code": 342,
+   "name": "Conductive_Black",
+   "hex": "#3E3C39",
+   "edge": "#333333",
+   "material": "pearlescent",
+   "lum": 0.0455
+  },
+  {
+   "code": 346,
+   "name": "Reddish_Copper",
+   "hex": "#803D07",
+   "edge": "#333333",
+   "material": "pearlescent",
+   "lum": 0.0794
+  },
+  {
+   "code": 350,
+   "name": "Rubber_Orange",
+   "hex": "#D67923",
+   "edge": "#333333",
+   "material": "rubber",
+   "lum": 0.2809
+  },
+  {
+   "code": 351,
+   "name": "Medium_Dark_Pink",
+   "hex": "#F785B1",
+   "edge": "#333333",
+   "lum": 0.3972
+  },
+  {
+   "code": 353,
+   "name": "Coral",
+   "hex": "#FF6D77",
+   "edge": "#333333",
+   "lum": 0.3353
+  },
+  {
+   "code": 360,
+   "name": "Opal_Trans_Clear",
+   "hex": "#FCFCFC",
+   "edge": "#C9C9C9",
+   "alpha": 240,
+   "luminance": 5,
+   "material": "material",
+   "lum": 0.9734
+  },
+  {
+   "code": 362,
+   "name": "Opal_Trans_Light_Blue",
+   "hex": "#AEE9EF",
+   "edge": "#59D1DE",
+   "alpha": 200,
+   "luminance": 5,
+   "material": "material",
+   "lum": 0.7351
+  },
+  {
+   "code": 363,
+   "name": "Opal_Trans_Black",
+   "hex": "#635F52",
+   "edge": "#2A2823",
+   "alpha": 200,
+   "luminance": 5,
+   "material": "material",
+   "lum": 0.1145
+  },
+  {
+   "code": 364,
+   "name": "Opal_Trans_Dark_Pink",
+   "hex": "#DF6695",
+   "edge": "#B9275F",
+   "alpha": 200,
+   "luminance": 5,
+   "material": "material",
+   "lum": 0.2736
+  },
+  {
+   "code": 365,
+   "name": "Opal_Trans_Purple",
+   "hex": "#671F81",
+   "edge": "#441456",
+   "alpha": 200,
+   "luminance": 5,
+   "material": "material",
+   "lum": 0.0545
+  },
+  {
+   "code": 366,
+   "name": "Earth_Orange",
+   "hex": "#D86D2C",
+   "edge": "#333333",
+   "lum": 0.2572
+  },
+  {
+   "code": 367,
+   "name": "Opal_Trans_Bright_Green",
+   "hex": "#56E646",
+   "edge": "#27AF18",
+   "alpha": 200,
+   "luminance": 5,
+   "material": "material",
+   "lum": 0.5901
+  },
+  {
+   "code": 368,
+   "name": "Neon_Yellow",
+   "hex": "#EDFF21",
+   "edge": "#333333",
+   "lum": 0.8963
+  },
+  {
+   "code": 370,
+   "name": "Medium_Brown",
+   "hex": "#755945",
+   "edge": "#333333",
+   "lum": 0.1136
+  },
+  {
+   "code": 371,
+   "name": "Medium_Tan",
+   "hex": "#CCA373",
+   "edge": "#333333",
+   "lum": 0.4027
+  },
+  {
+   "code": 373,
+   "name": "Sand_Purple",
+   "hex": "#75657D",
+   "edge": "#333333",
+   "lum": 0.1457
+  },
+  {
+   "code": 375,
+   "name": "Rubber_Light_Grey",
+   "hex": "#8A928D",
+   "edge": "#333333",
+   "material": "rubber",
+   "lum": 0.2788
+  },
+  {
+   "code": 376,
+   "name": "Opal_Trans_Yellow",
+   "hex": "#F5CD2F",
+   "edge": "#B49208",
+   "alpha": 200,
+   "luminance": 5,
+   "material": "material",
+   "lum": 0.6328
+  },
+  {
+   "code": 378,
+   "name": "Sand_Green",
+   "hex": "#708E7C",
+   "edge": "#333333",
+   "lum": 0.2425
+  },
+  {
+   "code": 379,
+   "name": "Sand_Blue",
+   "hex": "#70819A",
+   "edge": "#333333",
+   "lum": 0.2148
+  },
+  {
+   "code": 383,
+   "name": "Chrome_Silver",
+   "hex": "#CECECE",
+   "edge": "#9C9C9C",
+   "material": "chrome",
+   "lum": 0.6172
+  },
+  {
+   "code": 402,
+   "name": "Reddish_Orange",
+   "hex": "#CA4C0B",
+   "edge": "#333333",
+   "lum": 0.1775
+  },
+  {
+   "code": 406,
+   "name": "Rubber_Dark_Blue",
+   "hex": "#19325A",
+   "edge": "#333333",
+   "material": "rubber",
+   "lum": 0.0323
+  },
+  {
+   "code": 422,
+   "name": "Sienna_Brown",
+   "hex": "#915C3C",
+   "edge": "#333333",
+   "lum": 0.14
+  },
+  {
+   "code": 423,
+   "name": "Umber_Brown",
+   "hex": "#543F33",
+   "edge": "#333333",
+   "lum": 0.0568
+  },
+  {
+   "code": 424,
+   "name": "Ochre_Yellow",
+   "hex": "#DD9E47",
+   "edge": "#333333",
+   "lum": 0.4028
+  },
+  {
+   "code": 430,
+   "name": "Warm_Pink",
+   "hex": "#F79B9B",
+   "edge": "#333333",
+   "lum": 0.4558
+  },
+  {
+   "code": 431,
+   "name": "Bright_Blue_Violet",
+   "hex": "#665EA7",
+   "edge": "#333333",
+   "lum": 0.1362
+  },
+  {
+   "code": 449,
+   "name": "Rubber_Purple",
+   "hex": "#671F81",
+   "edge": "#333333",
+   "material": "rubber",
+   "lum": 0.0545
+  },
+  {
+   "code": 450,
+   "name": "Fabuland_Brown",
+   "hex": "#D27744",
+   "edge": "#333333",
+   "lum": 0.2731
+  },
+  {
+   "code": 462,
+   "name": "Medium_Orange",
+   "hex": "#F58624",
+   "edge": "#333333",
+   "lum": 0.3659
+  },
+  {
+   "code": 484,
+   "name": "Dark_Orange",
+   "hex": "#91501C",
+   "edge": "#333333",
+   "lum": 0.1184
+  },
+  {
+   "code": 490,
+   "name": "Rubber_Lime",
+   "hex": "#A5CA18",
+   "edge": "#333333",
+   "material": "rubber",
+   "lum": 0.5031
+  },
+  {
+   "code": 493,
+   "name": "Magnet",
+   "hex": "#656761",
+   "edge": "#333333",
+   "material": "metal",
+   "lum": 0.1333
+  },
+  {
+   "code": 494,
+   "name": "Electric_Contact_Alloy",
+   "hex": "#D0D0D0",
+   "edge": "#333333",
+   "material": "metal",
+   "lum": 0.6308
+  },
+  {
+   "code": 495,
+   "name": "Electric_Contact_Copper",
+   "hex": "#AE7A59",
+   "edge": "#333333",
+   "material": "metal",
+   "lum": 0.2364
+  },
+  {
+   "code": 496,
+   "name": "Rubber_Light_Bluish_Grey",
+   "hex": "#969696",
+   "edge": "#333333",
+   "material": "rubber",
+   "lum": 0.305
+  },
+  {
+   "code": 503,
+   "name": "Very_Light_Grey",
+   "hex": "#BCB4A5",
+   "edge": "#333333",
+   "lum": 0.4605
+  },
+  {
+   "code": 504,
+   "name": "Rubber_Flat_Silver",
+   "hex": "#898788",
+   "edge": "#333333",
+   "material": "rubber",
+   "lum": 0.2442
+  },
+  {
+   "code": 507,
+   "name": "Obsolete_Light_Orange_Brown",
+   "hex": "#FA9C1C",
+   "edge": "#333333",
+   "lum": 0.4418
+  },
+  {
+   "code": 508,
+   "name": "Fabuland_Red",
+   "hex": "#C65127",
+   "edge": "#333333",
+   "lum": 0.1804
+  },
+  {
+   "code": 509,
+   "name": "Fabuland_Orange",
+   "hex": "#CF8A47",
+   "edge": "#333333",
+   "lum": 0.319
+  },
+  {
+   "code": 510,
+   "name": "Fabuland_Lime",
+   "hex": "#ACE35A",
+   "edge": "#333333",
+   "lum": 0.6445
+  },
+  {
+   "code": 511,
+   "name": "Rubber_White",
+   "hex": "#F4F4F4",
+   "edge": "#333333",
+   "material": "rubber",
+   "lum": 0.9047
+  },
+  {
+   "code": 10002,
+   "name": "Rubber_Green",
+   "hex": "#00852B",
+   "edge": "#333333",
+   "material": "rubber",
+   "lum": 0.1695
+  },
+  {
+   "code": 10003,
+   "name": "Rubber_Dark_Turquoise",
+   "hex": "#069D9F",
+   "edge": "#333333",
+   "material": "rubber",
+   "lum": 0.2666
+  },
+  {
+   "code": 10005,
+   "name": "Rubber_Dark_Pink",
+   "hex": "#D3359D",
+   "edge": "#333333",
+   "material": "rubber",
+   "lum": 0.1883
+  },
+  {
+   "code": 10008,
+   "name": "Rubber_Dark_Grey",
+   "hex": "#545955",
+   "edge": "#333333",
+   "material": "rubber",
+   "lum": 0.0969
+  },
+  {
+   "code": 10010,
+   "name": "Rubber_Bright_Green",
+   "hex": "#58AB41",
+   "edge": "#333333",
+   "material": "rubber",
+   "lum": 0.3158
+  },
+  {
+   "code": 10015,
+   "name": "Lemon",
+   "hex": "#FFF230",
+   "edge": "#333333",
+   "lum": 0.8498
+  },
+  {
+   "code": 10017,
+   "name": "Rose_Pink",
+   "hex": "#FF9494",
+   "edge": "#333333",
+   "lum": 0.4458
+  },
+  {
+   "code": 10019,
+   "name": "Rubber_Tan",
+   "hex": "#D7BA8C",
+   "edge": "#333333",
+   "material": "rubber",
+   "lum": 0.5146
+  },
+  {
+   "code": 10022,
+   "name": "Yellowish_Dark_Pink",
+   "hex": "#D05098",
+   "edge": "#333333",
+   "lum": 0.2141
+  },
+  {
+   "code": 10026,
+   "name": "Rubber_Magenta",
+   "hex": "#901F76",
+   "edge": "#333333",
+   "material": "rubber",
+   "lum": 0.0822
+  },
+  {
+   "code": 10028,
+   "name": "Rubber_Dark_Tan",
+   "hex": "#897D62",
+   "edge": "#333333",
+   "material": "rubber",
+   "lum": 0.2087
+  },
+  {
+   "code": 10029,
+   "name": "Rubber_Bright_Pink",
+   "hex": "#FF9ECD",
+   "edge": "#333333",
+   "material": "rubber",
+   "lum": 0.5012
+  },
+  {
+   "code": 10030,
+   "name": "Rubber_Medium_Lavender",
+   "hex": "#A06EB9",
+   "edge": "#333333",
+   "material": "rubber",
+   "lum": 0.2213
+  },
+  {
+   "code": 10031,
+   "name": "Rubber_Lavender",
+   "hex": "#CDA4DE",
+   "edge": "#333333",
+   "material": "rubber",
+   "lum": 0.448
+  },
+  {
+   "code": 10035,
+   "name": "Rubber_Trans_Bright_Green",
+   "hex": "#56E646",
+   "edge": "#27AF18",
+   "alpha": 128,
+   "material": "rubber",
+   "lum": 0.5901
+  },
+  {
+   "code": 10036,
+   "name": "Rubber_Trans_Red",
+   "hex": "#C91A09",
+   "edge": "#660D05",
+   "alpha": 128,
+   "material": "rubber",
+   "lum": 0.1318
+  },
+  {
+   "code": 10043,
+   "name": "Rubber_Trans_Light_Blue",
+   "hex": "#AEE9EF",
+   "edge": "#59D1DE",
+   "alpha": 128,
+   "material": "rubber",
+   "lum": 0.7351
+  },
+  {
+   "code": 10045,
+   "name": "Metallic_Light_Blue",
+   "hex": "#97CBD9",
+   "edge": "#333333",
+   "material": "metal",
+   "lum": 0.543
+  },
+  {
+   "code": 10046,
+   "name": "Metallic_Pink",
+   "hex": "#AD659A",
+   "edge": "#333333",
+   "material": "metal",
+   "lum": 0.2052
+  },
+  {
+   "code": 10047,
+   "name": "Trans_Sticker",
+   "hex": "#FFFFFF",
+   "edge": "#FFFFFF",
+   "alpha": 16,
+   "lum": 1.0
+  },
+  {
+   "code": 10049,
+   "name": "Metallic_Light_Pink",
+   "hex": "#FECCCF",
+   "edge": "#333333",
+   "material": "metal",
+   "lum": 0.6876
+  },
+  {
+   "code": 10057,
+   "name": "Rubber_Trans_Orange",
+   "hex": "#F08F1C",
+   "edge": "#9E5C0A",
+   "alpha": 128,
+   "material": "rubber",
+   "lum": 0.3825
+  },
+  {
+   "code": 10070,
+   "name": "Rubber_Reddish_Brown",
+   "hex": "#5F3109",
+   "edge": "#808080",
+   "material": "rubber",
+   "lum": 0.0465
+  },
+  {
+   "code": 10072,
+   "name": "Rubber_Dark_Bluish_Grey",
+   "hex": "#646464",
+   "edge": "#333333",
+   "material": "rubber",
+   "lum": 0.1274
+  },
+  {
+   "code": 10073,
+   "name": "Rubber_Medium_Blue",
+   "hex": "#7396C8",
+   "edge": "#333333",
+   "material": "rubber",
+   "lum": 0.2963
+  },
+  {
+   "code": 10078,
+   "name": "Rubber_Light_Nougat",
+   "hex": "#FFC995",
+   "edge": "#333333",
+   "material": "rubber",
+   "lum": 0.652
+  },
+  {
+   "code": 10079,
+   "name": "Rubber_Milky_White",
+   "hex": "#EEEEEE",
+   "edge": "#BABABA",
+   "alpha": 240,
+   "material": "rubber",
+   "lum": 0.855
+  },
+  {
+   "code": 10084,
+   "name": "Rubber_Medium_Nougat",
+   "hex": "#AA7D55",
+   "edge": "#333333",
+   "material": "rubber",
+   "lum": 0.2387
+  },
+  {
+   "code": 10085,
+   "name": "Rubber_Medium_Lilac",
+   "hex": "#441A91",
+   "edge": "#333333",
+   "material": "rubber",
+   "lum": 0.0401
+  },
+  {
+   "code": 10092,
+   "name": "Rubber_Nougat",
+   "hex": "#BB805A",
+   "edge": "#333333",
+   "material": "rubber",
+   "lum": 0.2674
+  },
+  {
+   "code": 10135,
+   "name": "Rubber_Pearl_Light_Grey",
+   "hex": "#A0A0A0",
+   "edge": "#333333",
+   "material": "rubber",
+   "lum": 0.3515
+  },
+  {
+   "code": 10137,
+   "name": "Rubber_Metallic_Blue",
+   "hex": "#5B7590",
+   "edge": "#333333",
+   "material": "rubber",
+   "lum": 0.1696
+  },
+  {
+   "code": 10147,
+   "name": "Rubber_Pearl_Dark_Gold",
+   "hex": "#83724F",
+   "edge": "#333333",
+   "material": "rubber",
+   "lum": 0.1742
+  },
+  {
+   "code": 10148,
+   "name": "Rubber_Pearl_Dark_Grey",
+   "hex": "#484D48",
+   "edge": "#333333",
+   "material": "rubber",
+   "lum": 0.0715
+  },
+  {
+   "code": 10150,
+   "name": "Rubber_Pearl_Very_Light_Grey",
+   "hex": "#989B99",
+   "edge": "#333333",
+   "material": "rubber",
+   "lum": 0.3242
+  },
+  {
+   "code": 10151,
+   "name": "Rubber_Very_Light_Bluish_Grey",
+   "hex": "#C8C8C8",
+   "edge": "#333333",
+   "material": "rubber",
+   "lum": 0.5776
+  },
+  {
+   "code": 10189,
+   "name": "Rubber_Reddish_Gold",
+   "hex": "#AC8247",
+   "edge": "#333333",
+   "material": "rubber",
+   "lum": 0.2519
+  },
+  {
+   "code": 10191,
+   "name": "Rubber_Bright_Light_Orange",
+   "hex": "#FCAC00",
+   "edge": "#333333",
+   "material": "rubber",
+   "lum": 0.502
+  },
+  {
+   "code": 10200,
+   "name": "Rubber_Lemon_Metallic",
+   "hex": "#708224",
+   "edge": "#333333",
+   "material": "rubber",
+   "lum": 0.1954
+  },
+  {
+   "code": 10212,
+   "name": "Rubber_Bright_Light_Blue",
+   "hex": "#9DC3F7",
+   "edge": "#333333",
+   "material": "rubber",
+   "lum": 0.5291
+  },
+  {
+   "code": 10226,
+   "name": "Rubber_Bright_Light_Yellow",
+   "hex": "#FFEC6C",
+   "edge": "#333333",
+   "material": "rubber",
+   "lum": 0.8233
+  },
+  {
+   "code": 10288,
+   "name": "Rubber_Dark_Green",
+   "hex": "#00451A",
+   "edge": "#808080",
+   "material": "rubber",
+   "lum": 0.0433
+  },
+  {
+   "code": 10297,
+   "name": "Rubber_Pearl_Gold",
+   "hex": "#AA7F2E",
+   "edge": "#333333",
+   "material": "rubber",
+   "lum": 0.2392
+  },
+  {
+   "code": 10308,
+   "name": "Rubber_Dark_Brown",
+   "hex": "#352100",
+   "edge": "#808080",
+   "material": "rubber",
+   "lum": 0.0184
+  },
+  {
+   "code": 10320,
+   "name": "Rubber_Dark_Red",
+   "hex": "#720012",
+   "edge": "#333333",
+   "material": "rubber",
+   "lum": 0.0362
+  },
+  {
+   "code": 10321,
+   "name": "Rubber_Dark_Azure",
+   "hex": "#469BC3",
+   "edge": "#333333",
+   "material": "rubber",
+   "lum": 0.2868
+  },
+  {
+   "code": 10322,
+   "name": "Rubber_Medium_Azure",
+   "hex": "#68C3E2",
+   "edge": "#333333",
+   "material": "rubber",
+   "lum": 0.4746
+  },
+  {
+   "code": 10323,
+   "name": "Rubber_Light_Aqua",
+   "hex": "#D3F2EA",
+   "edge": "#333333",
+   "material": "rubber",
+   "lum": 0.8329
+  },
+  {
+   "code": 10326,
+   "name": "Rubber_Yellowish_Green",
+   "hex": "#E2F99A",
+   "edge": "#333333",
+   "material": "rubber",
+   "lum": 0.8625
+  },
+  {
+   "code": 10330,
+   "name": "Rubber_Olive_Green",
+   "hex": "#77774E",
+   "edge": "#333333",
+   "material": "rubber",
+   "lum": 0.1767
+  },
+  {
+   "code": 10351,
+   "name": "Glitter_Trans_Bright_Green",
+   "hex": "#56E646",
+   "edge": "#27AF18",
+   "alpha": 128,
+   "material": "material",
+   "lum": 0.5901
+  },
+  {
+   "code": 10366,
+   "name": "Opal_Trans_Dark_Blue",
+   "hex": "#0020A0",
+   "edge": "#000B38",
+   "alpha": 200,
+   "luminance": 5,
+   "material": "material",
+   "lum": 0.0357
+  },
+  {
+   "code": 10375,
+   "name": "Trans_Black",
+   "hex": "#212121",
+   "edge": "#545454",
+   "alpha": 128,
+   "lum": 0.0152
+  },
+  {
+   "code": 10378,
+   "name": "Rubber_Sand_Green",
+   "hex": "#708E7C",
+   "edge": "#333333",
+   "material": "rubber",
+   "lum": 0.2425
+  },
+  {
+   "code": 10484,
+   "name": "Rubber_Dark_Orange",
+   "hex": "#91501C",
+   "edge": "#333333",
+   "material": "rubber",
+   "lum": 0.1184
+  },
+  {
+   "code": 11015,
+   "name": "Trans_White",
+   "hex": "#F4F4F4",
+   "edge": "#C1C1C1",
+   "alpha": 174,
+   "lum": 0.9047
+  },
+  {
+   "code": 11019,
+   "name": "Trans_Tan",
+   "hex": "#D7BA8C",
+   "edge": "#BC8D41",
+   "alpha": 128,
+   "lum": 0.5146
+  },
+  {
+   "code": 20000,
+   "name": "Canvas_Black",
+   "hex": "#1B2A34",
+   "edge": "#808080",
+   "material": "material",
+   "lum": 0.0214
+  },
+  {
+   "code": 20001,
+   "name": "Canvas_Blue",
+   "hex": "#1E5AA8",
+   "edge": "#333333",
+   "material": "material",
+   "lum": 0.1042
+  },
+  {
+   "code": 20002,
+   "name": "Canvas_Green",
+   "hex": "#00852B",
+   "edge": "#333333",
+   "material": "material",
+   "lum": 0.1695
+  },
+  {
+   "code": 20004,
+   "name": "Canvas_Red",
+   "hex": "#B40000",
+   "edge": "#333333",
+   "material": "material",
+   "lum": 0.097
+  },
+  {
+   "code": 20006,
+   "name": "Canvas_Brown",
+   "hex": "#543324",
+   "edge": "#1E1E1E",
+   "material": "material",
+   "lum": 0.0438
+  },
+  {
+   "code": 20007,
+   "name": "Canvas_Light_Grey",
+   "hex": "#8A928D",
+   "edge": "#333333",
+   "material": "material",
+   "lum": 0.2788
+  },
+  {
+   "code": 20010,
+   "name": "Canvas_Bright_Green",
+   "hex": "#58AB41",
+   "edge": "#333333",
+   "material": "material",
+   "lum": 0.3158
+  },
+  {
+   "code": 20014,
+   "name": "Canvas_Yellow",
+   "hex": "#FAC80A",
+   "edge": "#333333",
+   "material": "material",
+   "lum": 0.6165
+  },
+  {
+   "code": 20015,
+   "name": "Canvas_White",
+   "hex": "#F4F4F4",
+   "edge": "#333333",
+   "material": "material",
+   "lum": 0.9047
+  },
+  {
+   "code": 20019,
+   "name": "Canvas_Tan",
+   "hex": "#D7BA8C",
+   "edge": "#333333",
+   "material": "material",
+   "lum": 0.5146
+  },
+  {
+   "code": 20022,
+   "name": "Canvas_Purple",
+   "hex": "#671F81",
+   "edge": "#333333",
+   "material": "material",
+   "lum": 0.0545
+  },
+  {
+   "code": 20028,
+   "name": "Canvas_Dark_Tan",
+   "hex": "#897D62",
+   "edge": "#333333",
+   "material": "material",
+   "lum": 0.2087
+  },
+  {
+   "code": 20070,
+   "name": "Canvas_Reddish_Brown",
+   "hex": "#5F3109",
+   "edge": "#808080",
+   "material": "material",
+   "lum": 0.0465
+  },
+  {
+   "code": 20071,
+   "name": "Canvas_Light_Bluish_Grey",
+   "hex": "#969696",
+   "edge": "#333333",
+   "material": "material",
+   "lum": 0.305
+  },
+  {
+   "code": 20072,
+   "name": "Canvas_Dark_Bluish_Grey",
+   "hex": "#646464",
+   "edge": "#333333",
+   "material": "material",
+   "lum": 0.1274
+  },
+  {
+   "code": 20086,
+   "name": "Canvas_Light_Brown",
+   "hex": "#7B5D41",
+   "edge": "#333333",
+   "material": "material",
+   "lum": 0.1242
+  },
+  {
+   "code": 20288,
+   "name": "Canvas_Dark_Green",
+   "hex": "#00451A",
+   "edge": "#808080",
+   "material": "material",
+   "lum": 0.0433
+  },
+  {
+   "code": 20320,
+   "name": "Canvas_Dark_Red",
+   "hex": "#720012",
+   "edge": "#333333",
+   "material": "material",
+   "lum": 0.0362
+  },
+  {
+   "code": 20335,
+   "name": "Canvas_Sand_Red",
+   "hex": "#88605E",
+   "edge": "#333333",
+   "material": "material",
+   "lum": 0.1441
+  },
+  {
+   "code": 20500,
+   "name": "Canvas_Cream",
+   "hex": "#F8F3E4",
+   "edge": "#333333",
+   "material": "material",
+   "lum": 0.8966
+  },
+  {
+   "code": 30000,
+   "name": "Modulex_Clear",
+   "hex": "#FCFCFC",
+   "edge": "#C9C9C9",
+   "alpha": 128,
+   "lum": 0.9734
+  },
+  {
+   "code": 30001,
+   "name": "Modulex_White",
+   "hex": "#F4F4F4",
+   "edge": "#333333",
+   "lum": 0.9047
+  },
+  {
+   "code": 30002,
+   "name": "Modulex_Light_Grey",
+   "hex": "#8A928D",
+   "edge": "#333333",
+   "lum": 0.2788
+  },
+  {
+   "code": 30003,
+   "name": "Modulex_Black",
+   "hex": "#34434D",
+   "edge": "#333333",
+   "lum": 0.0528
+  },
+  {
+   "code": 30004,
+   "name": "Modulex_Terracotta",
+   "hex": "#D27744",
+   "edge": "#333333",
+   "lum": 0.2731
+  },
+  {
+   "code": 30005,
+   "name": "Modulex_Buff",
+   "hex": "#D7BA8C",
+   "edge": "#333333",
+   "lum": 0.5146
+  },
+  {
+   "code": 30006,
+   "name": "Modulex_Ochre_Yellow",
+   "hex": "#FED557",
+   "edge": "#333333",
+   "lum": 0.6935
+  },
+  {
+   "code": 30007,
+   "name": "Modulex_Olive_Green",
+   "hex": "#7C9051",
+   "edge": "#333333",
+   "lum": 0.2483
+  },
+  {
+   "code": 30008,
+   "name": "Modulex_Teal_Blue",
+   "hex": "#467083",
+   "edge": "#333333",
+   "lum": 0.1453
+  },
+  {
+   "code": 30009,
+   "name": "Modulex_Brown",
+   "hex": "#907450",
+   "edge": "#333333",
+   "lum": 0.19
+  },
+  {
+   "code": 30010,
+   "name": "Modulex_Strong_Red",
+   "hex": "#B40000",
+   "edge": "#333333",
+   "lum": 0.097
+  },
+  {
+   "code": 30011,
+   "name": "Modulex_Pastel_Blue",
+   "hex": "#ABD9FF",
+   "edge": "#333333",
+   "lum": 0.655
+  },
+  {
+   "code": 30012,
+   "name": "Modulex_Orange",
+   "hex": "#D86D2C",
+   "edge": "#333333",
+   "lum": 0.2572
+  },
+  {
+   "code": 30013,
+   "name": "Modulex_Red",
+   "hex": "#C65127",
+   "edge": "#333333",
+   "lum": 0.1804
+  },
+  {
+   "code": 30014,
+   "name": "Modulex_Pastel_Green",
+   "hex": "#78FC78",
+   "edge": "#333333",
+   "lum": 0.7497
+  },
+  {
+   "code": 30015,
+   "name": "Modulex_Lemon",
+   "hex": "#FFF230",
+   "edge": "#333333",
+   "lum": 0.8498
+  },
+  {
+   "code": 30016,
+   "name": "Modulex_Pink",
+   "hex": "#F785B1",
+   "edge": "#333333",
+   "lum": 0.3972
+  },
+  {
+   "code": 30032,
+   "name": "Modulex_Light_Bluish_Grey",
+   "hex": "#AFB5C7",
+   "edge": "#333333",
+   "lum": 0.4629
+  },
+  {
+   "code": 30033,
+   "name": "Modulex_Pink_Red",
+   "hex": "#F45C40",
+   "edge": "#333333",
+   "lum": 0.2726
+  },
+  {
+   "code": 30034,
+   "name": "Modulex_Aqua_Green",
+   "hex": "#27867E",
+   "edge": "#333333",
+   "lum": 0.1899
+  },
+  {
+   "code": 30035,
+   "name": "Modulex_Light_Yellow",
+   "hex": "#FFE371",
+   "edge": "#333333",
+   "lum": 0.7739
+  },
+  {
+   "code": 30037,
+   "name": "Modulex_Violet",
+   "hex": "#BD7D85",
+   "edge": "#333333",
+   "lum": 0.2718
+  },
+  {
+   "code": 30038,
+   "name": "Modulex_Medium_Blue",
+   "hex": "#61AFFF",
+   "edge": "#333333",
+   "lum": 0.4042
+  },
+  {
+   "code": 30039,
+   "name": "Modulex_Light_Orange",
+   "hex": "#F7AD63",
+   "edge": "#333333",
+   "lum": 0.5056
+  },
+  {
+   "code": 30040,
+   "name": "Modulex_Charcoal_Grey",
+   "hex": "#595D60",
+   "edge": "#333333",
+   "lum": 0.108
+  },
+  {
+   "code": 30054,
+   "name": "Modulex_Dark_Brown",
+   "hex": "#330000",
+   "edge": "#808080",
+   "lum": 0.007
+  },
+  {
+   "code": 30080,
+   "name": "Modulex_Foil_White",
+   "hex": "#F4F4F4",
+   "edge": "#333333",
+   "lum": 0.9047
+  },
+  {
+   "code": 30081,
+   "name": "Modulex_Foil_Black",
+   "hex": "#34434D",
+   "edge": "#333333",
+   "lum": 0.0528
+  },
+  {
+   "code": 30082,
+   "name": "Modulex_Foil_Dark_Grey",
+   "hex": "#595D60",
+   "edge": "#333333",
+   "lum": 0.108
+  },
+  {
+   "code": 30083,
+   "name": "Modulex_Foil_Light_Grey",
+   "hex": "#9C9C9C",
+   "edge": "#333333",
+   "lum": 0.3325
+  },
+  {
+   "code": 30084,
+   "name": "Modulex_Foil_Dark_Green",
+   "hex": "#006400",
+   "edge": "#808080",
+   "lum": 0.0911
+  },
+  {
+   "code": 30085,
+   "name": "Modulex_Foil_Light_Green",
+   "hex": "#7DB538",
+   "edge": "#333333",
+   "lum": 0.3769
+  },
+  {
+   "code": 30086,
+   "name": "Modulex_Foil_Dark_Blue",
+   "hex": "#0057A6",
+   "edge": "#333333",
+   "lum": 0.0957
+  },
+  {
+   "code": 30087,
+   "name": "Modulex_Foil_Light_Blue",
+   "hex": "#68AECE",
+   "edge": "#333333",
+   "lum": 0.3767
+  },
+  {
+   "code": 30088,
+   "name": "Modulex_Foil_Violet",
+   "hex": "#4B0082",
+   "edge": "#333333",
+   "lum": 0.0311
+  },
+  {
+   "code": 30089,
+   "name": "Modulex_Foil_Dark_Red",
+   "hex": "#8B0000",
+   "edge": "#333333",
+   "lum": 0.0549
+  },
+  {
+   "code": 30090,
+   "name": "Modulex_Foil_Yellow",
+   "hex": "#FED557",
+   "edge": "#333333",
+   "lum": 0.6935
+  },
+  {
+   "code": 30091,
+   "name": "Modulex_Foil_Orange",
+   "hex": "#F7AD63",
+   "edge": "#333333",
+   "lum": 0.5056
+  },
+  {
+   "code": 31000,
+   "name": "Modulex_Dark_Grey",
+   "hex": "#6B5A5A",
+   "edge": "#333333",
+   "lum": 0.1118
+  },
+  {
+   "code": 31001,
+   "name": "Modulex_Blue",
+   "hex": "#0057A6",
+   "edge": "#333333",
+   "lum": 0.0957
+  },
+  {
+   "code": 31002,
+   "name": "Modulex_Very_Light_Grey",
+   "hex": "#D9D5CC",
+   "edge": "#333333",
+   "lum": 0.667
+  }
+ ],
+ "doc": "LDraw display colors with per-row provenance. hex/edge are sRGB; alpha is 0-255 (absent means opaque). luminance and material are LDConfig properties; lum is relative luminance of hex on 0-1. Python color-name resolution uses BrickNet, independently of this table.",
+ "provenance": {
+  "0": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "1": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "2": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "3": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "4": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "5": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "6": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "7": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "8": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "9": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "10": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "11": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "12": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "13": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "14": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "15": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "16": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "17": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "18": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "19": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "20": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "21": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "22": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "23": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "24": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "25": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "26": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "27": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "28": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "29": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "30": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "31": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "32": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "33": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "34": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "35": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "36": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "37": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "38": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "39": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "40": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "41": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "42": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "43": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "44": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "45": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "46": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "47": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "52": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "54": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "57": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "60": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "61": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "62": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "63": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "64": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "65": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "66": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "67": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "68": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "69": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "70": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "71": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "72": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "73": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "74": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "75": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "76": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "77": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "78": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "79": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "80": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "81": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "82": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "83": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "84": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "85": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "86": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "87": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "89": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "92": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "100": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "110": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "112": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "114": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "115": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "117": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "118": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "120": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "121": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "123": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "125": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "128": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "129": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "132": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "133": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "134": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "135": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "137": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "142": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "147": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "148": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "150": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "151": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "158": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "176": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "178": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "179": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "180": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "183": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "184": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "185": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "186": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "187": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "189": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "191": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "200": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "212": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "213": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "216": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "218": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "219": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "220": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "225": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "226": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "227": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "231": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "232": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "234": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "256": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "272": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "273": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "284": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "285": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "288": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "293": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "294": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "295": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "296": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "297": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "300": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "302": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "308": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "313": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "315": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "316": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "320": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "321": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "322": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "323": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "324": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "326": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "329": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "330": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "332": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "333": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "334": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "335": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "339": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "341": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "342": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "346": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "350": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "351": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "353": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "360": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "362": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "363": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "364": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "365": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "366": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "367": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "368": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "370": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "371": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "373": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "375": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "376": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "378": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "379": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "383": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "402": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "406": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "422": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "423": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "424": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "430": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "431": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "449": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "450": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "462": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "484": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "490": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "493": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "494": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "495": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "496": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "503": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "504": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "507": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "508": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "509": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "510": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "511": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "10002": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "10003": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "10005": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "10008": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "10010": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "10015": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "10017": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "10019": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "10022": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "10026": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "10028": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "10029": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "10030": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "10031": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "10035": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "10036": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "10043": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "10045": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "10046": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "10047": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "10049": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "10057": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "10070": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "10072": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "10073": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "10078": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "10079": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "10084": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "10085": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "10092": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "10135": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "10137": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "10147": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "10148": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "10150": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "10151": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "10189": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "10191": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "10200": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "10212": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "10226": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "10288": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "10297": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "10308": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "10320": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "10321": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "10322": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "10323": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "10326": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "10330": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "10351": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "10366": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "10375": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "10378": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "10484": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "11015": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "11019": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "20000": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "20001": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "20002": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "20004": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "20006": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "20007": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "20010": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "20014": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "20015": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "20019": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "20022": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "20028": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "20070": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "20071": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "20072": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "20086": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "20288": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "20320": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "20335": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "20500": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "30000": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "30001": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "30002": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "30003": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "30004": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "30005": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "30006": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "30007": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "30008": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "30009": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "30010": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "30011": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "30012": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "30013": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "30014": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "30015": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "30016": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "30032": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "30033": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "30034": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "30035": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "30037": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "30038": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "30039": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "30040": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "30054": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "30080": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "30081": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "30082": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "30083": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "30084": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "30085": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "30086": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "30087": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "30088": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "30089": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "30090": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "30091": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "31000": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "31001": "ldraw:LDConfig.ldr + ported:brickagent2",
+  "31002": "ldraw:LDConfig.ldr + ported:brickagent2"
+ },
+ "sources": {
+  "ldconfig": "/data2/ldraw/ldraw/LDConfig.ldr (UPDATE 2026-05-29)",
+  "ported": "src/brickagent2/parts.py::_LDCONFIG"
+ }
+}

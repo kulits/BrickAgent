@@ -1,0 +1,34 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "brickagent"
+version = "0.1.0"
+description = "Agentic LEGO design"
+readme = "README.md"
+license = "MIT"
+license-files = ["LICENSE"]
+requires-python = ">=3.10"
+authors = [{ name = "Peter Kulits" }]
+dependencies = ["numpy", "scipy", "pybullet", "bricknet>=0.1.1"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Paper = "https://brickben.ch"
+
+[tool.hatch.build]
+exclude = ["**/node_modules/**"]
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/brickagent"]
+
+[tool.hatch.build.targets.sdist]
+include = ["/src/brickagent", "/README.md", "/LICENSE", "/pyproject.toml"]
+exclude = ["**/node_modules/**"]
+
+[tool.black]
+line-length = 120
